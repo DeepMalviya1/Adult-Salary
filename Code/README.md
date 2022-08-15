@@ -1,3 +1,4 @@
+[![salary-negotiations](https://user-images.githubusercontent.com/60154038/184655226-c1dda857-0a06-41e5-8816-a54ec7f42485.jpg)]
 # Adult Salary Classification
 
 **Logistic Regression:**
@@ -22,7 +23,7 @@ pip install pandas
 pip install seaborn
 ```
 ## Source Code
-[Deep_Malviya_KaggleNotebook](https://www.kaggle.com/deepmalviya7/bank-note-authentication)
+[Deep_Malviya_KaggleNotebook](https://github.com/DeepMalviya1/Adult-Salary/blob/main/Code/Adult_salary.ipynb)
 
 **Please Upvote, Support and Share**
 
